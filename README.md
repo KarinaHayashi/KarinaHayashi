@@ -3,7 +3,7 @@
   <a href="https://github.com/KarinaHayashi">
     <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KarinaHayashi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-      <div align="right">
+      
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarinaHayashi&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
