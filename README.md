@@ -1,36 +1,33 @@
-<div align="center">
-  <a href="https://github.com/KarinaHayashi">
-    <div align="left">
-      
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23D7A2FF&lines=Oi+meu+nome+%C3%A9+Karina+Hayashi)](https://git.io/typing-svg)
-      
-      
-      
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KarinaHayashi&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-      
-<div style="display: inline_block"><br>
-  <img align="center" alt="Karina-Java" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-   <img align="right" alt="Ka-pic" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202202/338224_csr9AXkN.png"> 
-  
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=KarinaHayashi&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<h2> Hi I'm Karina Hayashi,  <img src="https://media2.giphy.com/media/H7NY2KgHRyRxQ1wZu0/giphy.gif?cid=ecf05e476kxd2r2tjaqf70yn7zn6prsmndzqbwgwz2bhmsht&rid=giphy.gif&ct=s" width="90"></h2>
+<img align='right' src="https://media3.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif?cid=ecf05e47d40cqha1ekf6p0ggkdztkszgri523qmqx9fqyp0z&rid=giphy.gif&ct=s" width="230">
+<p><em>Student at FATEC Bauru <a href="http://www.fatecbauru.edu.br/index.php/home">Database</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-  
-</div>
+[![Twitter Follow](https://img.shields.io/twitter/follow/hayasushi_?label=Follow)](https://twitter.com/intent/follow?screen_name=hayasushi_)
+[![Linkedin: anmol](https://img.shields.io/badge/-Hayashi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karina-hayashi-b8859b19b/)](https://www.linkedin.com/in/karina-hayashi-b8859b19b/)
+![GitHub followers](https://img.shields.io/github/followers/KarinaHayashi?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.instagram.com/hayasushi_/)](https://www.instagram.com/hayasushi_/)
+![](https://visitor-badge.glitch.me/badge?page_id=KarinaHayashi)
 
-  
-  
-</div>
-  
 
-    
-  ##
-  
-  
-<div> 
-  
-  <a href="https://www.instagram.com/hayasushi_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.linkedin.com/in/karina-hayashi-b8859b19b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  ##
-  
- 
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```java
+Karina Hayashi = {
+    pronouns: "She" | "them",
+    code: ["Java", "MySql" ],
+    askMeAbout: ["mySql", "Java"],
+    technologies: {
+        studying Java and MySQL
+        },
+        
+        
+   {
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+
+
+
+
