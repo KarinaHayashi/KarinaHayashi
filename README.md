@@ -12,6 +12,27 @@
 
 
 
+<h2 align="center">
+  My Github Stats<img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50">
+</h2>
+ 
+<br>
+
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=KarinaHayashi&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KarinaHayashi&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+</p>
+
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=KarinaHayashi&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p> 
+
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=KarinaHayashi&theme=redical">
+</p> 
+<hr>
+<p align="center">If you like it, do fork 🍴 and star ⭐</p>
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```java
@@ -27,7 +48,4 @@ Karina Hayashi = {
    {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
-
-
-
 
