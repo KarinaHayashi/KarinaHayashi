@@ -19,8 +19,7 @@
 <br>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=KarinaHayashi&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KarinaHayashi&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+  <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KarinaHayashi&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical"><img height="180em"  src = "https://github-readme-stats.vercel.app/api?username=KarinaHayashi&show_icons=true&theme=radical&line_height=24"> 
 </p>
 
 <p align = "center">
@@ -38,10 +37,10 @@
 ```java
 Karina Hayashi = {
     pronouns: "She" | "them",
-    code: ["Java", "MySql" ],
-    askMeAbout: ["mySql", "Java"],
+    code: ["Java", "Sql" ],
+    askMeAbout: ["Sql", "Java"],
     technologies: {
-        studying Java and MySQL
+        studying Java and SQL
         },
         
         
