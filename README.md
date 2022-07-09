@@ -1,4 +1,4 @@
-<h2> Hi I'm Karina Hayashi,  <img src="https://media2.giphy.com/media/H7NY2KgHRyRxQ1wZu0/giphy.gif?cid=ecf05e476kxd2r2tjaqf70yn7zn6prsmndzqbwgwz2bhmsht&rid=giphy.gif&ct=s" width="90"></h2>
+<h2> Hi I'm Karina Hayashi,  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media3.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif?cid=ecf05e47d40cqha1ekf6p0ggkdztkszgri523qmqx9fqyp0z&rid=giphy.gif&ct=s" width="230">
 <p><em>Student at FATEC Bauru <a href="http://www.fatecbauru.edu.br/index.php/home">Database</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
