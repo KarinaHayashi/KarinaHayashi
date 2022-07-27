@@ -38,7 +38,7 @@
 
 ```java
 Karina Hayashi = {
-    pronouns: "She" | "them",
+    pronouns: "She" | "her",
     code: ["Java", "Sql" ],
     askMeAbout: ["Sql", "Java"],
     technologies: {
