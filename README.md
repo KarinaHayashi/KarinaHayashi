@@ -38,7 +38,7 @@ Karina Hayashi = {
     code: ["JavaScript"],
     askMeAbout: ["animes e mangas"],
     technologies: {
-        studying JavaScrip,Html, CSS e SQL
+        studying JavaScrip ,Html , CSS e SQL
         },
         
         
