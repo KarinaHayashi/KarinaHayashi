@@ -35,10 +35,10 @@
 ```java
 Karina Hayashi = {
     pronouns: "She" | "her",
-    code: ["JAVA"],
-    askMeAbout: [" "],
+    code: ["JavaScript"],
+    askMeAbout: ["animes e mangas"],
     technologies: {
-        studying JAVA, SQL
+        studying JavaScrip,Html, CSS e SQL
         },
         
         
