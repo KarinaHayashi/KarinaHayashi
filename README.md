@@ -34,7 +34,7 @@
 Karina Hayashi = {
     pronouns: "She" | "her",
     code: ["JavaScript"],
-    askMeAbout: ["animes e mangas"],
+    askMeAbout: ["JavaScript"],
     technologies: {
         studying JavaScrip ,Html , CSS e SQL
         },
