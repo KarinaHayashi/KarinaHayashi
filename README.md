@@ -3,7 +3,6 @@
 <p><em>Student at FATEC Bauru <a href="http://www.fatecbauru.edu.br/index.php/home">Database</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Japascript_?label=Follow)](https://twitter.com/intent/follow?screen_name=Japascript_)
 [![Linkedin: anmol](https://img.shields.io/badge/-Hayashi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karina-hayashi-b8859b19b/)](https://www.linkedin.com/in/karina-hayashi-b8859b19b/)
 ![GitHub followers](https://img.shields.io/github/followers/KarinaHayashi?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.instagram.com/hayasushi_/)](https://www.instagram.com/hayasushi_/)
