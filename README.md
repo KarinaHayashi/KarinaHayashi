@@ -6,7 +6,7 @@
 [![Linkedin: anmol](https://img.shields.io/badge/-Hayashi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karina-hayashi-b8859b19b/)](https://www.linkedin.com/in/karina-hayashi-b8859b19b/)
 ![GitHub followers](https://img.shields.io/github/followers/KarinaHayashi?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.instagram.com/hayasushi_/)](https://www.instagram.com/hayasushi_/)
-![](https://visitor-badge.glitch.me/badge?page_id=KarinaHayashi)
+![](https://visitor-badge.glitch.me/badge?page_id=karinaHayashi)
 
 
 
@@ -20,7 +20,11 @@
 
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=KarinaHayashi&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+<div>
+<a href="https://github.com/karinaHayashi">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinaHayashi&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=karinaHayashi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 </p> 
 
 
