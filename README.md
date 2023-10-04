@@ -6,7 +6,8 @@
 [![Linkedin: anmol](https://img.shields.io/badge/-Hayashi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karina-hayashi-b8859b19b/)](https://www.linkedin.com/in/karina-hayashi-b8859b19b/)
 ![GitHub followers](https://img.shields.io/github/followers/KarinaHayashi?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.instagram.com/hayasushi_/)](https://www.instagram.com/hayasushi_/)
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=karinaHayashi)
+![visitors](https://visitor-badge.glitch.me/badge?page_KarinaHayashi&left_color=green&right_color=red)
+)
 
 
 
