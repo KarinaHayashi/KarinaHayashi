@@ -17,7 +17,6 @@
 
 
 
-
 <h2 align="center">
   My Github Stats<img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50">
 </h2>
