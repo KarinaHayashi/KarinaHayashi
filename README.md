@@ -42,10 +42,10 @@
 ```java
 Karina Hayashi = {
     pronouns: "She" | "her",
-    code: ["Python | SQL"],
-    askMeAbout: [" no "],
+    code: ["studying JAVA"],
+    askMeAbout: [" lógica "],
     technologies: {
-        studying Python, SQL, bootcamp ciência de dados com pyhton 
+        studying JAVA e aws cloud
         },
         
         
