@@ -1,21 +1,26 @@
-<h2> Hi I'm Karina Hayashi,  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media3.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif?cid=ecf05e47d40cqha1ekf6p0ggkdztkszgri523qmqx9fqyp0z&rid=giphy.gif&ct=s" width="230">
-<p><em>Student at SENAC Bauru <a href="https://www.sp.senac.br/senac-bauru">Técnico em Segurança Cibernética</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<h2> Olá, eu sou a Karina Hayashi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media3.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif" width="230">
 
-[![Linkedin: anmol](https://img.shields.io/badge/-Hayashi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karina-hayashi-b8859b19b/)](https://www.linkedin.com/in/karina-hayashi-b8859b19b/)
+<p><em> Estudante de Técnico em Segurança Cibernética no <a href="https://www.sp.senac.br/senac-bauru">SENAC Bauru</a> </em> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
+
+🔹 Apaixonada por tecnologia, cloud e cibersegurança.  
+🔹 Experiência com suporte técnico SAP e modelagem de banco de dados.  
+🔹 Buscando oportunidades para crescer e aplicar meus conhecimentos na área de tecnologia.  
+
+[![Linkedin: Hayashi](https://img.shields.io/badge/-Hayashi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hayashikarina/)](https://www.linkedin.com/in/hayashikarina/)
 ![GitHub followers](https://img.shields.io/github/followers/KarinaHayashi?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.instagram.com/hayasushi_/)](https://www.instagram.com/hayasushi_/)
 ![Visitantes](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FKarinaHayashi&label=VISITORS&labelColor=%23d9e3f0&countColor=%23697689&style=flat-square)
 
+---
 
+### 💻 Tecnologias & Conhecimentos  
 
+ 🔹 **Banco de Dados**: Modelagem e testes de aplicações (DBeaver)  
+🔹 **Cloud**: Fundamentos AWS (SENAI e Escola da Nuvem)  
+🔹 **Segurança Cibernética**: Conceitos fundamentais em desenvolvimento  
+🔹 **Ferramentas**: SAP, Service Desk, Power BI (básico)  
 
-
-
-
-
-
+---
 
 <h2 align="center">
   My Github Stats<img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50">
@@ -39,17 +44,11 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```java
-Karina Hayashi = {
-    pronouns: "She" | "her",
-    code: ["studying JAVA"],
-    askMeAbout: [" lógica "],
-    technologies: {
-        studying JAVA e aws cloud
-        },
-        
-        
-   {
+```
+✔️ Aprofundar meus conhecimentos em Java e computação em nuvem  
+✔️ Aplicar técnicas de segurança cibernética em projetos práticos  
+✔️ Contribuir para a comunidade tech e compartilhar aprendizados  
+
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 
