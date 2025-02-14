@@ -1,6 +1,6 @@
 <h2> Hi I'm Karina Hayashi,  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media3.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif?cid=ecf05e47d40cqha1ekf6p0ggkdztkszgri523qmqx9fqyp0z&rid=giphy.gif&ct=s" width="230">
-<p><em>Student at FATEC Bauru <a href="http://www.fatecbauru.edu.br/index.php/home">Database</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Student at SENAC Bauru <a href="https://www.sp.senac.br/senac-bauru">Técnico em Segurança Cibernética</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: anmol](https://img.shields.io/badge/-Hayashi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karina-hayashi-b8859b19b/)](https://www.linkedin.com/in/karina-hayashi-b8859b19b/)
