@@ -50,5 +50,5 @@
 ✔️ Contribuir para a comunidade tech e compartilhar aprendizados  
 
     funFact: "There are two ways to write error-free programs; only the third one works"
-};
+
 
